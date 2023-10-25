@@ -1,0 +1,2 @@
+# MyAppAutomationTools
+pywinautoでアプリの自動化を行う
