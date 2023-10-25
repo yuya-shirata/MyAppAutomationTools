@@ -1,0 +1,112 @@
+Title: タスク バー
+Class: Shell_TrayWnd
+Rectangle: (L0, T1032, R1920, B1080)
+------
+Title: WindowInfoExtractor.py - MyAppAutomationTools - Visual Studio Code
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: Pythonインストールエラー：pywinauto - メモリ使用量 - 116 MB - Google Chrome - 湧也
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: Extractor - Google 検索 - メモリ使用量 - 46.7 MB - Google Chrome - 湧也
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: magenta-demos/performance_rnn at main · magenta/magenta-demos · GitHub - メモリ使用量 - 59.2 MB - Google Chrome - 湧也
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: [WIP] 議事録/設計効率化/光学シミュレータ/自動化_覚書(pywinauto) - abist.esa.io - メモリ使用量 - 63.3 MB - Google Chrome - 湧也
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: MyAppAutomationTools
+Class: CabinetWClass
+Rectangle: (L52, T46, R1508, B1032)
+------
+Title: gradio_test1.py - 未設定 (ワークスペース) - Visual Studio Code
+Class: Chrome_WidgetWin_1
+Rectangle: (L190, T133, R1784, B995)
+------
+Title: DeepL  
+Class: Window
+Rectangle: (L273, T295, R1323, B1052)
+------
+Title: ダウンロード
+Class: CabinetWClass
+Rectangle: (L52, T46, R1508, B1032)
+------
+Title: 白田 湧也のメモ会議 | Microsoft Teams classic、メイン ウィンドウ
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: コース: コンプライアンス全般教育2023 - メモリ使用量 - 60.5 MB - Google Chrome - 湧也
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: StatusBarEx
+Class: Afx:004B0000:b:00010003:00000000:00000000
+Rectangle: (L1, T1002, R1914, B1032)
+------
+Title: ANP17003
+Class: RemoteView by RSUPPORT
+Rectangle: (L-13, T-13, R1933, B1045)
+------
+Title: タイトルなし - ペイント
+Class: MSPaintApp
+Rectangle: (L191, T107, R1727, B971)
+------
+Title: GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス #GitHubActions - Qiita - メモリ使用量 - 155 MB - Google Chrome - 湧也
+Class: Chrome_WidgetWin_1
+Rectangle: (L-8, T-8, R1928, B1040)
+------
+Title: txt2img-images
+Class: CabinetWClass
+Rectangle: (L52, T46, R1508, B1032)
+------
+Title: メモ
+Class: CabinetWClass
+Rectangle: (L52, T46, R1508, B1032)
+------
+Title: LINE
+Class: AllInOneWindow
+Rectangle: (L0, T0, R640, B1032)
+------
+Title: 
+Class: NarratorHelperWindow
+Rectangle: (L-32000, T-32000, R-31984, B-31984)
+------
+Title: stable-diffusion-webui
+Class: CabinetWClass
+Rectangle: (L52, T46, R1508, B1032)
+------
+Title: C:\WINDOWS\system32\cmd.exe
+Class: CASCADIA_HOSTING_WINDOW_CLASS
+Rectangle: (L226, T234, R1355, B869)
+------
+Title: Containers - Docker Desktop
+Class: Chrome_WidgetWin_1
+Rectangle: (L325, T120, R1595, B931)
+------
+Title: NVIDIA GeForce Overlay
+Class: CEF-OSC-WIDGET
+Rectangle: (L0, T0, R1920, B1080)
+------
+Title: 
+Class: WindowsForms10.Window.8.app.0.c376cd_r7_ad1
+Rectangle: (L0, T0, R0, B0)
+------
+Title: 2023年の年末調整について - ABISTニュース2023-52_2023年の年末調整について.pdf — Mozilla Firefox
+Class: MozillaWindowClass
+Rectangle: (L0, T0, R0, B0)
+------
+Title: stable_diffusion_pronpt.txt - sakura 2.4.1.2849  
+Class: TextEditorWindowWP176
+Rectangle: (L0, T0, R0, B0)
+------
+Title: Program Manager
+Class: Progman
+Rectangle: (L0, T0, R1920, B1080)
+------
